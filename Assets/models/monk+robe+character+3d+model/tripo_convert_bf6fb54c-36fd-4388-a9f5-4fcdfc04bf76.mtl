@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_bf6fb54c-36fd-4388-a9f5-4fcdfc04bf76
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd monkrobecharacter3dmodel_basecolor.JPEG
+map_Ns monkrobecharacter3dmodel_roughness.JPEG
+map_Pr monkrobecharacter3dmodel_roughness.JPEG
+map_refl monkrobecharacter3dmodel_metallic.JPEG
+map_Pm monkrobecharacter3dmodel_metallic.JPEG
+map_Bump -bm 1.000000 monkrobecharacter3dmodel_normal.JPEG

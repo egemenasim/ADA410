@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_3b8e02a0-39d3-4ebb-83b3-246933f266a2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd toprakkale_basecolor.JPEG
+map_Ns toprakkale_roughness.JPEG
+map_Pr toprakkale_roughness.JPEG
+map_refl toprakkale_metallic.JPEG
+map_Pm toprakkale_metallic.JPEG
+map_Bump -bm 1.000000 toprakkale_normal.JPEG

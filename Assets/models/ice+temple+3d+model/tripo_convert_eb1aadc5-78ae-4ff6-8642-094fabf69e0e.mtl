@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_eb1aadc5-78ae-4ff6-8642-094fabf69e0e
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd icetemple3dmodel_basecolor.JPEG
+map_Ns icetemple3dmodel_roughness.JPEG
+map_Pr icetemple3dmodel_roughness.JPEG
+map_refl icetemple3dmodel_metallic.JPEG
+map_Pm icetemple3dmodel_metallic.JPEG
+map_Bump -bm 1.000000 icetemple3dmodel_normal.JPEG

@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_d1414489-7fbe-4e95-af07-8d46dede75a1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd havakale_basecolor.JPEG
+map_Ns havakale_roughness.JPEG
+map_Pr havakale_roughness.JPEG
+map_refl havakale_metallic.JPEG
+map_Pm havakale_metallic.JPEG
+map_Bump -bm 1.000000 havakale_normal.JPEG
